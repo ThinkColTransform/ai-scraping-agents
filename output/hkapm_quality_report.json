@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "total_records": 188,
+    "overall_coverage": "100.0%",
+    "field_coverage": {
+      "name": "100.0%",
+      "floor": "100.0%",
+      "shop_number": "100.0%",
+      "category": "100.0%"
+    }
+  },
+  "issues": {
+    "missing_fields": {
+      "name": 0,
+      "floor": 0,
+      "shop_number": 0,
+      "category": 0
+    },
+    "unknown_floors": [
+      "一樓 - 16",
+      "大堂高層 - 18",
+      "一樓 - Xsite 1d",
+      "四樓 - 27",
+      "一樓 - 20",
+      "一樓 - 23",
+      "大堂高層 - 36",
+      "大堂高層 - 15",
+      "大堂高層 - 21",
+      "一樓 - 11"
+    ],
+    "top_failures": []
+  },
+  "sample_records_with_issues": {
+    "unknown_floors": [
+      {
+        "name": "MARITHE FRANÇOIS GIRBAUD",
+        "floor": "UC - 12",
+        "shop_number": "UC - 12",
+        "raw_floor": "UC - 12",
+        "source_url": "https://www.hkapm.com.hk/shop/"
+      },
+      {
+        "name": "Dior",
+        "floor": "C - 11",
+        "shop_number": "C - 11",
+        "raw_floor": "C - 11",
+        "source_url": "https://www.hkapm.com.hk/shop/"
+      },
+      {
+        "name": "吃茶三千",
+        "floor": "地面低層 - 2C",
+        "shop_number": "地面低層 - 2C",
+        "raw_floor": "地面低層 - 2C",
+        "source_url": "https://www.hkapm.com.hk/shop/"
+      },
+      {
+        "name": "Sweety Eyes by cl mall",
+        "floor": "四樓 - 5",
+        "shop_number": "四樓 - 5",
+        "raw_floor": "四樓 - 5",
+        "source_url": "https://www.hkapm.com.hk/shop/"
+      },
+      {
+        "name": "3 Shop",
+        "floor": "五樓 - 1a",
+        "shop_number": "五樓 - 1a",
+        "raw_floor": "五樓 - 1a",
+        "source_url": "https://www.hkapm.com.hk/shop/"
+      }
+    ]
+  },
+  "metadata": {
+    "mall_name": "hkapm",
+    "root_url": "https://www.hkapm.com.hk/shop/",
+    "iterations": 1,
+    "api_calls": 2,
+    "timestamp": "2025-12-30T17:21:57.126518"
+  }
+}

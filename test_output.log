@@ -1,0 +1,100 @@
+2025-12-30 13:10:44,093 - __main__ - INFO - ======================================================================
+2025-12-30 13:10:44,093 - __main__ - INFO - AUTONOMOUS MALL SCRAPER
+2025-12-30 13:10:44,093 - __main__ - INFO - ======================================================================
+2025-12-30 13:10:44,093 - __main__ - INFO - 
+2025-12-30 13:10:44,093 - __main__ - INFO - Target URL: https://www.newtownplaza.com.hk/zh-hant/時尚購物/
+2025-12-30 13:10:44,093 - __main__ - INFO - Coverage threshold: 90%
+2025-12-30 13:10:44,093 - __main__ - INFO - Max iterations: 5
+2025-12-30 13:10:44,093 - __main__ - INFO - Output directory: ./output
+2025-12-30 13:10:44,093 - __main__ - INFO - 
+2025-12-30 13:10:44,346 - ai.azure_openai_client - INFO - Azure OpenAI client initialized with deployment: gpt-5.2
+2025-12-30 13:10:44,346 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - AUTONOMOUS MALL SCRAPER - STARTING
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - Target: https://www.newtownplaza.com.hk/zh-hant/時尚購物/
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - Coverage threshold: 90%
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - Max iterations: 5
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - 
+============================================================
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - STEP 1: RECON / STRUCTURE DISCOVERY
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - Analyzing https://www.newtownplaza.com.hk/zh-hant/時尚購物/...
+2025-12-30 13:10:44,347 - core.autonomous_scraper - INFO - 🤖 Using AI agent to discover site structure...
+2025-12-30 13:10:45,823 - ai.azure_openai_client - INFO - API Call #1 to Azure OpenAI (gpt-5.2)...
+2025-12-30 13:11:09,446 - httpx - INFO - HTTP Request: POST https://tc-internal-eastus2-sponsored.openai.azure.com/openai/deployments/gpt-5.2/chat/completions?api-version=2024-08-01-preview "HTTP/1.1 200 OK"
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - ✅ AI Analysis complete:
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO -    Page type: html
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO -    Strategy: Start with plain HTTP fetch (requests) and parse the returned HTML. This looks l
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO -    Confidence: 62%
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - 
+############################################################
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - # ITERATION 1/5
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - ############################################################
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - 
+============================================================
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - STEP 2: EXTRACTION
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - 
+🤖 AI generating extraction code for unknown site...
+2025-12-30 13:11:09,446 - core.autonomous_scraper - INFO - Fetching https://www.newtownplaza.com.hk/zh-hant/時尚購物/ for analysis...
+2025-12-30 13:11:09,548 - core.autonomous_scraper - INFO - Extracting HTML features...
+2025-12-30 13:11:09,588 - core.autonomous_scraper - INFO -    Found 20 links
+2025-12-30 13:11:09,588 - core.autonomous_scraper - INFO -    Found 10 repeated classes
+2025-12-30 13:11:09,588 - core.autonomous_scraper - INFO -    JSON in scripts: True
+2025-12-30 13:11:09,588 - core.autonomous_scraper - INFO - 🤖 Asking AI for extraction config...
+2025-12-30 13:11:09,588 - ai.azure_openai_client - INFO - API Call #2 to Azure OpenAI (gpt-5.2)...
+2025-12-30 13:11:14,867 - httpx - INFO - HTTP Request: POST https://tc-internal-eastus2-sponsored.openai.azure.com/openai/deployments/gpt-5.2/chat/completions?api-version=2024-08-01-preview "HTTP/1.1 200 OK"
+2025-12-30 13:11:14,867 - core.autonomous_scraper - INFO - ✅ AI generated extraction config:
+2025-12-30 13:11:14,867 - core.autonomous_scraper - INFO -    Type: api
+2025-12-30 13:11:14,867 - core.autonomous_scraper - INFO -    Confidence: 0%
+2025-12-30 13:11:14,867 - core.autonomous_scraper - INFO -    Config size: 297 chars
+2025-12-30 13:11:14,867 - core.autonomous_scraper - INFO - ⚡ Executing api extraction...
+2025-12-30 13:11:14,867 - core.autonomous_scraper - INFO - Trying API: /wp-json/wp/v2/stores?per_page=100&page=1&lang=zh-hant&store_category=fashion
+2025-12-30 13:11:17,477 - core.autonomous_scraper - INFO - ✅ Extracted 0 records via API
+2025-12-30 13:11:17,477 - core.autonomous_scraper - INFO - 
+============================================================
+2025-12-30 13:11:17,477 - core.autonomous_scraper - INFO - STEP 3: NORMALIZATION
+2025-12-30 13:11:17,477 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:11:17,477 - core.autonomous_scraper - INFO - Normalized 0 records
+2025-12-30 13:11:17,477 - core.autonomous_scraper - INFO - 
+============================================================
+2025-12-30 13:11:17,477 - core.autonomous_scraper - INFO - STEP 3.5: AI FLOOR MAPPING DISCOVERY
+2025-12-30 13:11:17,479 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:11:17,479 - core.autonomous_scraper - INFO - 🤖 Running AI floor mapper to maximize coverage...
+2025-12-30 13:11:17,480 - ai.floor_mapper - INFO - Found 0 training samples (location + shop numbers)
+2025-12-30 13:11:17,480 - ai.floor_mapper - WARNING - No training samples found - cannot discover mapping
+2025-12-30 13:11:17,480 - core.autonomous_scraper - WARNING - Could not discover floor mapping
+2025-12-30 13:11:17,480 - core.autonomous_scraper - INFO - 
+============================================================
+2025-12-30 13:11:17,480 - core.autonomous_scraper - INFO - STEP 4: EVALUATION
+2025-12-30 13:11:17,480 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:11:17,480 - core.autonomous_scraper - INFO - 
+============================================================
+2025-12-30 13:11:17,480 - core.autonomous_scraper - INFO - STEP 5: REPAIR LOOP
+2025-12-30 13:11:17,480 - core.autonomous_scraper - INFO - ============================================================
+2025-12-30 13:11:17,480 - core.autonomous_scraper - INFO - No issues to repair
+2025-12-30 13:11:17,480 - core.autonomous_scraper - WARNING - No repairs could be applied - stopping
+2025-12-30 13:11:17,481 - utils.export - INFO - Exported data to output\newtownplaza_normalized_data.json
+2025-12-30 13:11:17,481 - utils.export - WARNING - No records to export
+2025-12-30 13:11:17,481 - utils.export - INFO - Exported data to output\newtownplaza_quality_report.json
+2025-12-30 13:11:17,481 - core.autonomous_scraper - INFO - 
+✅ Results saved to C:\Users\choyd\thinkcol\autonomous_mall_scraper\output
+2025-12-30 13:11:17,481 - core.autonomous_scraper - INFO -    - newtownplaza_normalized_data.json
+2025-12-30 13:11:17,481 - core.autonomous_scraper - INFO -    - newtownplaza_normalized_data.csv
+2025-12-30 13:11:17,481 - core.autonomous_scraper - INFO -    - newtownplaza_quality_report.json
+2025-12-30 13:11:17,481 - core.autonomous_scraper - INFO -    - newtownplaza_site_config.json
+2025-12-30 13:11:17,481 - __main__ - INFO - 
+2025-12-30 13:11:17,481 - __main__ - INFO - ======================================================================
+2025-12-30 13:11:17,481 - __main__ - INFO - SCRAPING COMPLETE
+2025-12-30 13:11:17,481 - __main__ - INFO - ======================================================================
+2025-12-30 13:11:17,482 - __main__ - INFO - Success: ⚠️  NO
+2025-12-30 13:11:17,482 - __main__ - INFO - Iterations: 1
+2025-12-30 13:11:17,482 - __main__ - INFO - Coverage: 0.0%
+2025-12-30 13:11:17,482 - __main__ - INFO - Total records: 0
+2025-12-30 13:11:17,482 - __main__ - INFO - Azure OpenAI API calls: 2
+2025-12-30 13:11:17,482 - __main__ - INFO - Output directory: C:\Users\choyd\thinkcol\autonomous_mall_scraper\output
+2025-12-30 13:11:17,482 - __main__ - INFO - ======================================================================
+2025-12-30 13:11:17,482 - __main__ - WARNING - 
+2025-12-30 13:11:17,482 - __main__ - WARNING - ⚠️  Coverage threshold not met: 0.0% < 90%
+2025-12-30 13:11:17,482 - __main__ - WARNING -    Completed 1 iterations
+2025-12-30 13:11:17,482 - __main__ - WARNING -    Check output directory for quality report with details on issues

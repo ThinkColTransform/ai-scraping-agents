@@ -1,0 +1,9 @@
+{
+  "sections": {},
+  "extraction_rules": {},
+  "floor_patterns": [],
+  "selectors": {},
+  "api_endpoints": {
+    "discovered": "unknown (inspect Network for XHR/fetch; likely patterns include /api/*, /ajax/*, /en/* endpoints returning JSON, or Laravel routes requiring 'X-CSRF-TOKEN' header from <meta name=\"csrf-token\">)"
+  }
+}

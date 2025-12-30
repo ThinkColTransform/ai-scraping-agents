@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "total_records": 947,
+    "overall_coverage": "100.0%",
+    "field_coverage": {
+      "name": "100.0%",
+      "floor": "100.0%",
+      "shop_number": "100.0%",
+      "category": "100.0%"
+    }
+  },
+  "issues": {
+    "missing_fields": {
+      "name": 0,
+      "floor": 0,
+      "shop_number": 0,
+      "category": 0
+    },
+    "unknown_floors": [],
+    "top_failures": []
+  },
+  "metadata": {
+    "mall_name": "fortunemalls",
+    "root_url": "https://www.fortunemalls.com.hk",
+    "iterations": 1,
+    "api_calls": 3,
+    "timestamp": "2025-12-30T16:50:17.497834"
+  }
+}

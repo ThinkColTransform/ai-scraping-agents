@@ -1,0 +1,9 @@
+{
+  "sections": {},
+  "extraction_rules": {},
+  "floor_patterns": [],
+  "selectors": {},
+  "api_endpoints": {
+    "discovered": "unknown (potential WordPress patterns to check in page source/network: /wp-json/wp/v2/*, /wp-json/wp/v2/pages?slug=*, /wp-admin/admin-ajax.php?action=*, or a custom /wp-json/* namespace)"
+  }
+}

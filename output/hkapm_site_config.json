@@ -1,0 +1,9 @@
+{
+  "sections": {},
+  "extraction_rules": {},
+  "floor_patterns": [],
+  "selectors": {},
+  "api_endpoints": {
+    "discovered": "unknown (inspect Network XHR/Fetch on /shop/ for JSON endpoints; likely patterns include /api/*, /ajax/*, /wp-admin/admin-ajax.php, or /lib/* endpoints returning shop lists)"
+  }
+}

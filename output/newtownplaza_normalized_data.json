@@ -1,0 +1,1932 @@
+[
+  {
+    "name": "POLO RALPH LAUREN",
+    "floor": "L3",
+    "shop_number": "301",
+    "category": "Shopping",
+    "raw_floor": "POLO RALPH LAUREN一期, L3, 301舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "VIVAIA",
+    "floor": "L5",
+    "shop_number": "535",
+    "category": "Shopping",
+    "raw_floor": "VIVAIA一期, L5, 535舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "0.9144m",
+    "floor": "LB",
+    "shop_number": "LB06",
+    "category": "Shopping",
+    "raw_floor": "0.9144m一期,PLAY PARK, LB06舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "2nd STREET",
+    "floor": "L3",
+    "shop_number": "357",
+    "category": "Shopping",
+    "raw_floor": "2nd STREET一期, L3, 357舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "3D-JP",
+    "floor": "L2",
+    "shop_number": "A209",
+    "category": "Shopping",
+    "raw_floor": "3D-JP三期, L2, A209舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "AAPE BY A BATHING APE®",
+    "floor": "L4",
+    "shop_number": "419",
+    "category": "Shopping",
+    "raw_floor": "AAPE BY A BATHING APE®一期, L4, 419舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "floor": "L4",
+    "shop_number": "456",
+    "category": "Shopping",
+    "raw_floor": "Abercrombie & Fitch一期, L4, 456舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ad-lib",
+    "floor": "L1",
+    "shop_number": "A111",
+    "category": "Shopping",
+    "raw_floor": "ad-lib三期, L1, A111舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "adidas",
+    "floor": "L5",
+    "shop_number": "527",
+    "category": "Shopping",
+    "raw_floor": "adidas一期, L5, 527舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Aerie",
+    "floor": "L3",
+    "shop_number": "365",
+    "category": "Shopping",
+    "raw_floor": "Aerie一期, L3, 365舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "AESOP",
+    "floor": "L3",
+    "shop_number": "A354",
+    "category": "Shopping",
+    "raw_floor": "AESOP三期, L3, A354舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "agnès b.",
+    "floor": "L3",
+    "shop_number": "389",
+    "category": "Shopping",
+    "raw_floor": "agnès b.一期, L3, 389舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "AIGLE",
+    "floor": "L4",
+    "shop_number": "487-488",
+    "category": "Shopping",
+    "raw_floor": "AIGLE一期, L4, 487-488舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "American Eagle",
+    "floor": "L3",
+    "shop_number": "366",
+    "category": "Shopping",
+    "raw_floor": "American Eagle一期, L3, 366舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "APIVITA",
+    "floor": "L3",
+    "shop_number": "A343",
+    "category": "Shopping",
+    "raw_floor": "APIVITA三期, L3, A343舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "APM Monaco",
+    "floor": "L3",
+    "shop_number": "382",
+    "category": "Shopping",
+    "raw_floor": "APM Monaco一期, L3, 382舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Apple",
+    "floor": "L4",
+    "shop_number": "426-428",
+    "category": "Shopping",
+    "raw_floor": "Apple一期, L4, 426-428舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "arena",
+    "floor": "L1",
+    "shop_number": "A112",
+    "category": "Shopping",
+    "raw_floor": "arena三期, L1, A112舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Armani",
+    "floor": "L4",
+    "shop_number": "465",
+    "category": "Shopping",
+    "raw_floor": "Armani一期, L4, 465舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ARTCO GALLERY",
+    "floor": "UB",
+    "shop_number": "UB04",
+    "category": "Shopping",
+    "raw_floor": "ARTCO GALLERY一期,PLAY PARK, UB04舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ASHWORTH",
+    "floor": "L5",
+    "shop_number": "522",
+    "category": "Shopping",
+    "raw_floor": "ASHWORTH一期, L5, 522舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ASICS",
+    "floor": "L5",
+    "shop_number": "512",
+    "category": "Shopping",
+    "raw_floor": "ASICS一期, L5, 512舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Aveda Experience Center",
+    "floor": "L3",
+    "shop_number": "A344",
+    "category": "Shopping",
+    "raw_floor": "Aveda Experience Center三期, L3, A344舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "BABY BABOON",
+    "floor": "L2",
+    "shop_number": "A225B",
+    "category": "Shopping",
+    "raw_floor": "BABY BABOON三期, L2, A225B舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Balabala",
+    "floor": "L2",
+    "shop_number": "A234",
+    "category": "Shopping",
+    "raw_floor": "Balabala三期, L2, A234舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Banananaxx",
+    "floor": "L3",
+    "shop_number": "A345",
+    "category": "Shopping",
+    "raw_floor": "Banananaxx三期, L3, A345舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Bath & Body Works",
+    "floor": "L3",
+    "shop_number": "367",
+    "category": "Shopping",
+    "raw_floor": "Bath & Body Works一期, L3, 367舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Baz & Friends Lane Crawford",
+    "floor": "L3",
+    "shop_number": "L3",
+    "category": "Shopping",
+    "raw_floor": "Baz & Friends Lane Crawford一期, L3, Kiosks 3C & 3D",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "BeBeBus",
+    "floor": "L2",
+    "shop_number": "A212",
+    "category": "Shopping",
+    "raw_floor": "BeBeBus三期, L2, A212舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Benefit",
+    "floor": "L3",
+    "shop_number": "A375",
+    "category": "Shopping",
+    "raw_floor": "Benefit三期, L3, A375舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Beyorg™ 有機無限",
+    "floor": "L2",
+    "shop_number": "246",
+    "category": "Shopping",
+    "raw_floor": "Beyorg™ 有機無限一期, L2, 246舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "BOBBI BROWN",
+    "floor": "L4",
+    "shop_number": "403",
+    "category": "Shopping",
+    "raw_floor": "BOBBI BROWN一期, L4, 403舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "BONLUXE",
+    "floor": "L3",
+    "shop_number": "A316",
+    "category": "Shopping",
+    "raw_floor": "BONLUXE三期, L3, A316舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "BOSE",
+    "floor": "L6",
+    "shop_number": "621",
+    "category": "Shopping",
+    "raw_floor": "BOSE一期, L6, 621舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "BrainStation",
+    "floor": "LB",
+    "shop_number": "LB03",
+    "category": "Shopping",
+    "raw_floor": "BrainStation一期, LB, LB03舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "BROOKS BROTHERS",
+    "floor": "L3",
+    "shop_number": "386",
+    "category": "Shopping",
+    "raw_floor": "BROOKS BROTHERS一期, L3, 386舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Burberry Beauty",
+    "floor": "L3",
+    "shop_number": "369B",
+    "category": "Shopping",
+    "raw_floor": "Burberry Beauty一期, L3, 369B舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CALVIN KLEIN",
+    "floor": "L4",
+    "shop_number": "401-402",
+    "category": "Shopping",
+    "raw_floor": "CALVIN KLEIN一期, L4, 401-402舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Canvas",
+    "floor": "L3",
+    "shop_number": "A314",
+    "category": "Shopping",
+    "raw_floor": "Canvas三期, L3, A314舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CASETiFY",
+    "floor": "L3",
+    "shop_number": "369C",
+    "category": "Shopping",
+    "raw_floor": "CASETiFY一期, L3, 369C舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Catalog",
+    "floor": "L5",
+    "shop_number": "513",
+    "category": "Shopping",
+    "raw_floor": "Catalog一期, L5, 513舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Cath Kidston",
+    "floor": "L3",
+    "shop_number": "A356",
+    "category": "Shopping",
+    "raw_floor": "Cath Kidston三期, L3, A356舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CAUDALIE",
+    "floor": "L3",
+    "shop_number": "A301",
+    "category": "Shopping",
+    "raw_floor": "CAUDALIE三期, L3, A301舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CHANEL BEAUTÉ",
+    "floor": "L3",
+    "shop_number": "376",
+    "category": "Shopping",
+    "raw_floor": "CHANEL BEAUTÉ一期, L3, 376舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CHANTECAILLE",
+    "floor": "L4",
+    "shop_number": "473",
+    "category": "Shopping",
+    "raw_floor": "CHANTECAILLE一期, L4, 473舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CHARLES & KEITH",
+    "floor": "L4",
+    "shop_number": "411A",
+    "category": "Shopping",
+    "raw_floor": "CHARLES & KEITH一期, L4, 411A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Charlotte Tilbury",
+    "floor": "L2",
+    "shop_number": "243",
+    "category": "Shopping",
+    "raw_floor": "Charlotte Tilbury一期, L2, 243舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CHEVIGNON",
+    "floor": "L5",
+    "shop_number": "528",
+    "category": "Shopping",
+    "raw_floor": "CHEVIGNON一期, L5, 528舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "chicco",
+    "floor": "L2",
+    "shop_number": "A201",
+    "category": "Shopping",
+    "raw_floor": "chicco三期, L2 , A201舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Chrissie Studio",
+    "floor": "L3",
+    "shop_number": "A377",
+    "category": "Shopping",
+    "raw_floor": "Chrissie Studio三期, L3, A377舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "City Chain Glam TimePieces & Solvil et Titus",
+    "floor": "L3",
+    "shop_number": "A370",
+    "category": "Shopping",
+    "raw_floor": "City Chain Glam TimePieces & Solvil et Titus三期, L3, A357 & A370舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "City'super",
+    "floor": "L2",
+    "shop_number": "204-214",
+    "category": "Shopping",
+    "raw_floor": "City'super一期, L2, 204-214舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CLARINS",
+    "floor": "L2",
+    "shop_number": "219",
+    "category": "Shopping",
+    "raw_floor": "CLARINS一期, L2, 219舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CLINIQUE",
+    "floor": "L2",
+    "shop_number": "203",
+    "category": "Shopping",
+    "raw_floor": "CLINIQUE一期, L2, 203舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Club Monaco",
+    "floor": "L3",
+    "shop_number": "395",
+    "category": "Shopping",
+    "raw_floor": "Club Monaco一期, L3, 395舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Clé de Peau BEAUTÉ",
+    "floor": "L4",
+    "shop_number": "468",
+    "category": "Shopping",
+    "raw_floor": "Clé de Peau BEAUTÉ一期, L4, 468舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Clémence by Rue Madame",
+    "floor": "L4",
+    "shop_number": "482A",
+    "category": "Shopping",
+    "raw_floor": "Clémence by Rue Madame一期, L4, 482A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Coach",
+    "floor": "L3",
+    "shop_number": "398A",
+    "category": "Shopping",
+    "raw_floor": "Coach一期, L3, 398 & 398A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Cole Haan GrandShøp",
+    "floor": "L5",
+    "shop_number": "533",
+    "category": "Shopping",
+    "raw_floor": "Cole Haan GrandShøp一期, L5, 533舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Columbia Sportswear Company",
+    "floor": "L5",
+    "shop_number": "514",
+    "category": "Shopping",
+    "raw_floor": "Columbia Sportswear Company一期, L5, 514舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "COS",
+    "floor": "L3",
+    "shop_number": "390-391",
+    "category": "Shopping",
+    "raw_floor": "COS一期, L3, 390-391舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Covermark",
+    "floor": "L3",
+    "shop_number": "A346",
+    "category": "Shopping",
+    "raw_floor": "Covermark三期, L3, A346舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "CROCS",
+    "floor": "L3",
+    "shop_number": "A323",
+    "category": "Shopping",
+    "raw_floor": "CROCS三期, L3, A323舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Daisy & Dion",
+    "floor": "L2",
+    "shop_number": "A208",
+    "category": "Shopping",
+    "raw_floor": "Daisy & Dion三期, L2 , A208舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "DECATHLON",
+    "floor": "L3",
+    "shop_number": "A315",
+    "category": "Shopping",
+    "raw_floor": "DECATHLON三期, L3, A315舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "DELSEY PARIS",
+    "floor": "L5",
+    "shop_number": "537",
+    "category": "Shopping",
+    "raw_floor": "DELSEY PARIS一期, L5, 537舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "DETERMINANT",
+    "floor": "L4",
+    "shop_number": "413A",
+    "category": "Shopping",
+    "raw_floor": "DETERMINANT一期, L4, 413A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Dior Beauty",
+    "floor": "L3",
+    "shop_number": "332",
+    "category": "Shopping",
+    "raw_floor": "Dior Beauty一期, L3,332舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "DMA",
+    "floor": "L6",
+    "shop_number": "622",
+    "category": "Shopping",
+    "raw_floor": "DMA一期, L6, 622舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Double Step",
+    "floor": "L3",
+    "shop_number": "A322",
+    "category": "Shopping",
+    "raw_floor": "Double Step三期, L3, A322舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Dr. Kong Footcare",
+    "floor": "L2",
+    "shop_number": "A210",
+    "category": "Shopping",
+    "raw_floor": "Dr. Kong Footcare三期, L2 , A210舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Dr. Martens",
+    "floor": "L3",
+    "shop_number": "A320",
+    "category": "Shopping",
+    "raw_floor": "Dr. Martens三期, L3, A320舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "DV Meteor",
+    "floor": "L3",
+    "shop_number": "A339A",
+    "category": "Shopping",
+    "raw_floor": "DV Meteor三期, L3 A339A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "dyson",
+    "floor": "L3",
+    "shop_number": "369E",
+    "category": "Shopping",
+    "raw_floor": "dyson一期, L3, 369E舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ECCO",
+    "floor": "L5",
+    "shop_number": "536",
+    "category": "Shopping",
+    "raw_floor": "ECCO一期, L5, 536舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Eczewear",
+    "floor": "L1",
+    "shop_number": "A126",
+    "category": "Shopping",
+    "raw_floor": "Eczewear三期, L1 , A126舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "edition",
+    "floor": "L3",
+    "shop_number": "303",
+    "category": "Shopping",
+    "raw_floor": "edition一期, L3, 303舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "EFX24",
+    "floor": "LB",
+    "shop_number": "LB07",
+    "category": "Shopping",
+    "raw_floor": "EFX24一期,PLAY PARK, LB07舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "eGG Optical Boutique",
+    "floor": "L3",
+    "shop_number": "A306",
+    "category": "Shopping",
+    "raw_floor": "eGG Optical Boutique三期, L3, A306舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ELBA",
+    "floor": "L3",
+    "shop_number": "A321",
+    "category": "Shopping",
+    "raw_floor": "ELBA三期, L3, A321舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Erica Store",
+    "floor": "L3",
+    "shop_number": "A336",
+    "category": "Shopping",
+    "raw_floor": "Erica Store三期, L3, A336舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ESTÉE LAUDER",
+    "floor": "L3",
+    "shop_number": "330",
+    "category": "Shopping",
+    "raw_floor": "ESTÉE LAUDER一期, L3,330舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "EVISU",
+    "floor": "L4",
+    "shop_number": "409",
+    "category": "Shopping",
+    "raw_floor": "EVISU一期, L4, 409舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "FILA",
+    "floor": "L5",
+    "shop_number": "501-502",
+    "category": "Shopping",
+    "raw_floor": "FILA一期, L5, 501-502舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "FILA KIDS",
+    "floor": "L2",
+    "shop_number": "A231",
+    "category": "Shopping",
+    "raw_floor": "FILA KIDS三期, L2, A231舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "FLOROMA",
+    "floor": "L3",
+    "shop_number": "A342",
+    "category": "Shopping",
+    "raw_floor": "FLOROMA三期, L3, A342舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "fresh",
+    "floor": "L4",
+    "shop_number": "418",
+    "category": "Shopping",
+    "raw_floor": "fresh一期, L4, 418舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "FURLA",
+    "floor": "L3",
+    "shop_number": "388",
+    "category": "Shopping",
+    "raw_floor": "FURLA一期, L3, 388舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "G2000",
+    "floor": "L4",
+    "shop_number": "479",
+    "category": "Shopping",
+    "raw_floor": "G2000一期, L4, 479舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ghd",
+    "floor": "L2",
+    "shop_number": "220",
+    "category": "Shopping",
+    "raw_floor": "ghd一期, L2, 220舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "GINZA DIAMOND SHIRAISHI",
+    "floor": "L4",
+    "shop_number": "472",
+    "category": "Shopping",
+    "raw_floor": "GINZA DIAMOND SHIRAISHI一期, L4, 472舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Giordano ladies",
+    "floor": "L4",
+    "shop_number": "483",
+    "category": "Shopping",
+    "raw_floor": "Giordano ladies一期, L4, 483铺",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "GLYCEL",
+    "floor": "L3",
+    "shop_number": "A374",
+    "category": "Shopping",
+    "raw_floor": "GLYCEL三期, L3, A374舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "GRAND SEIKO",
+    "floor": "L3",
+    "shop_number": "A358",
+    "category": "Shopping",
+    "raw_floor": "GRAND SEIKO三期, L3, A358舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "GreenPrice",
+    "floor": "L2",
+    "shop_number": "A235A",
+    "category": "Shopping",
+    "raw_floor": "GreenPrice三期, L2, A235A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "GU",
+    "floor": "L3",
+    "shop_number": "A307",
+    "category": "Shopping",
+    "raw_floor": "GU三期, L3, A307舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Guerlain",
+    "floor": "L2",
+    "shop_number": "215B",
+    "category": "Shopping",
+    "raw_floor": "Guerlain一期, L2, 215B舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Helena Rubinstein",
+    "floor": "L4",
+    "shop_number": "405",
+    "category": "Shopping",
+    "raw_floor": "Helena Rubinstein一期, L4, 405舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "hellolulu",
+    "floor": "L1",
+    "shop_number": "A131",
+    "category": "Shopping",
+    "raw_floor": "hellolulu三期, L1, A131舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Her Own Words",
+    "floor": "L3",
+    "shop_number": "A317",
+    "category": "Shopping",
+    "raw_floor": "Her Own Words三期, L3, A317舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Hisso",
+    "floor": "L3",
+    "shop_number": "A328",
+    "category": "Shopping",
+    "raw_floor": "Hisso三期, L3, A328舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "HOLLISTER",
+    "floor": "L4",
+    "shop_number": "457",
+    "category": "Shopping",
+    "raw_floor": "HOLLISTER一期, L4, 457舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "HONOR",
+    "floor": "L6",
+    "shop_number": "603",
+    "category": "Shopping",
+    "raw_floor": "HONOR一期, L6, 603舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "HP",
+    "floor": "L6",
+    "shop_number": "601A",
+    "category": "Shopping",
+    "raw_floor": "HP一期, L6, 601A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "i.t",
+    "floor": "L4",
+    "shop_number": "412",
+    "category": "Shopping",
+    "raw_floor": "i.t一期, L4, 412舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "IDEAS",
+    "floor": "L4",
+    "shop_number": "414",
+    "category": "Shopping",
+    "raw_floor": "IDEAS一期, L4, 414舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "INDIGO PLUS",
+    "floor": "UB",
+    "shop_number": "07-08",
+    "category": "Shopping",
+    "raw_floor": "INDIGO PLUS一期, UB, 07-08舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "INITIAL",
+    "floor": "L3",
+    "shop_number": "358",
+    "category": "Shopping",
+    "raw_floor": "INITIAL一期, L3, 358舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "innisfree",
+    "floor": "L3",
+    "shop_number": "A373",
+    "category": "Shopping",
+    "raw_floor": "innisfree三期, L3, A373舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Intique",
+    "floor": "L3",
+    "shop_number": "A359-360",
+    "category": "Shopping",
+    "raw_floor": "Intique三期, L3, A359-360舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "IPSA",
+    "floor": "L2",
+    "shop_number": "217",
+    "category": "Shopping",
+    "raw_floor": "IPSA一期, L2, 217舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "ITSU",
+    "floor": "L6",
+    "shop_number": "621A",
+    "category": "Shopping",
+    "raw_floor": "ITSU一期, L6, 621A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "JINS",
+    "floor": "L4",
+    "shop_number": "413",
+    "category": "Shopping",
+    "raw_floor": "JINS一期, L4, 413舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Jo Malone London",
+    "floor": "L2",
+    "shop_number": "202",
+    "category": "Shopping",
+    "raw_floor": "Jo Malone London一期, L2, 202舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Joy & Peace",
+    "floor": "L4",
+    "shop_number": "476",
+    "category": "Shopping",
+    "raw_floor": "Joy & Peace一期, L4, 476舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "JP Living Style",
+    "floor": "L2",
+    "shop_number": "A233",
+    "category": "Shopping",
+    "raw_floor": "JP Living Style三期, L2, A233舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "June",
+    "floor": "L3",
+    "shop_number": "A338",
+    "category": "Shopping",
+    "raw_floor": "June三期, L3, A338舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Jurlique",
+    "floor": "L3",
+    "shop_number": "A352",
+    "category": "Shopping",
+    "raw_floor": "Jurlique三期, L3, A352舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "kate spade New York",
+    "floor": "L3",
+    "shop_number": "325",
+    "category": "Shopping",
+    "raw_floor": "kate spade New York一期, L3, 325舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Keen",
+    "floor": "L5",
+    "shop_number": "531",
+    "category": "Shopping",
+    "raw_floor": "Keen一期, L5, 531舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Kipling",
+    "floor": "L3",
+    "shop_number": "A361",
+    "category": "Shopping",
+    "raw_floor": "Kipling三期, L3, A361舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Kiztopia",
+    "floor": "LB",
+    "shop_number": "LB08-LB09",
+    "category": "Shopping",
+    "raw_floor": "Kiztopia一期,PLAY PARK, LB08-LB09舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Kérastase",
+    "floor": "L3",
+    "shop_number": "A340",
+    "category": "Shopping",
+    "raw_floor": "Kérastase三期, L3, A340舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "K… Culture",
+    "floor": "L3",
+    "shop_number": "A366A",
+    "category": "Shopping",
+    "raw_floor": "K… Culture三期, L3, A366A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "L'Occitane",
+    "floor": "L3",
+    "shop_number": "A302",
+    "category": "Shopping",
+    "raw_floor": "L'Occitane三期, L3, A302舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "La Mer",
+    "floor": "L4",
+    "shop_number": "422",
+    "category": "Shopping",
+    "raw_floor": "La Mer一期, L4, 422舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LA PRAIRIE",
+    "floor": "L4",
+    "shop_number": "425",
+    "category": "Shopping",
+    "raw_floor": "LA PRAIRIE一期, L4, 425舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Lacoste",
+    "floor": "L5",
+    "shop_number": "503",
+    "category": "Shopping",
+    "raw_floor": "Lacoste一期, L5, 503舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Lancôme",
+    "floor": "L3",
+    "shop_number": "378",
+    "category": "Shopping",
+    "raw_floor": "Lancôme一期, L3, 378舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LANEIGE",
+    "floor": "L3",
+    "shop_number": "A376",
+    "category": "Shopping",
+    "raw_floor": "LANEIGE三期, L3, A376舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Laura Mercier",
+    "floor": "L2",
+    "shop_number": "215A",
+    "category": "Shopping",
+    "raw_floor": "Laura Mercier一期, L2, 215A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LE CREUSET",
+    "floor": "L6",
+    "shop_number": "640",
+    "category": "Shopping",
+    "raw_floor": "LE CREUSET一期, L6, 640舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Le Labo",
+    "floor": "L4",
+    "shop_number": "421A",
+    "category": "Shopping",
+    "raw_floor": "Le Labo一期, L4, 421A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LEGiT",
+    "floor": "L3",
+    "shop_number": "A336A",
+    "category": "Shopping",
+    "raw_floor": "LEGiT三期, L3, A336A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LensCrafters",
+    "floor": "L3",
+    "shop_number": "A323A",
+    "category": "Shopping",
+    "raw_floor": "LensCrafters三期, L3, A323A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Levi's Store",
+    "floor": "L5",
+    "shop_number": "530",
+    "category": "Shopping",
+    "raw_floor": "Levi's Store一期, L5, 530舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LOG-ON",
+    "floor": "L2",
+    "shop_number": "A202",
+    "category": "Shopping",
+    "raw_floor": "LOG-ON三期, L2, A202舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Logitech",
+    "floor": "L6",
+    "shop_number": "620",
+    "category": "Shopping",
+    "raw_floor": "Logitech一期, L6, 620舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Lollipop Garden",
+    "floor": "L2",
+    "shop_number": "L2",
+    "category": "Shopping",
+    "raw_floor": "Lollipop Garden三期, L2, KIOSK A221A",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Longchamp",
+    "floor": "L3",
+    "shop_number": "381",
+    "category": "Shopping",
+    "raw_floor": "Longchamp一期, L3, 381舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LONGINES",
+    "floor": "L3",
+    "shop_number": "305",
+    "category": "Shopping",
+    "raw_floor": "LONGINES一期, L3, 305舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Lululemon",
+    "floor": "L4",
+    "shop_number": "469",
+    "category": "Shopping",
+    "raw_floor": "Lululemon一期, L4, 469舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "LUSH",
+    "floor": "L3",
+    "shop_number": "A351B",
+    "category": "Shopping",
+    "raw_floor": "LUSH三期, L3, A351B舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "M.A.C.",
+    "floor": "M",
+    "shop_number": "A348",
+    "category": "Shopping",
+    "raw_floor": "M.A.C.三期, L3, A348舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Ma Belle",
+    "floor": "L3",
+    "shop_number": "309",
+    "category": "Shopping",
+    "raw_floor": "Ma Belle一期, L3, 309舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MAKE UP FOR EVER",
+    "floor": "L3",
+    "shop_number": "A347",
+    "category": "Shopping",
+    "raw_floor": "MAKE UP FOR EVER三期, L3, A347舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MARC JACOBS",
+    "floor": "L3",
+    "shop_number": "328",
+    "category": "Shopping",
+    "raw_floor": "MARC JACOBS一期, L3,328舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Masterpiece by King Fook",
+    "floor": "L3",
+    "shop_number": "321",
+    "category": "Shopping",
+    "raw_floor": "Masterpiece by King Fook一期, L3, 321舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Matsumoto Kiyoshi",
+    "floor": "L2",
+    "shop_number": "359",
+    "category": "Shopping",
+    "raw_floor": "Matsumoto Kiyoshi一期, L2, 250 & 359舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MAX&Co.",
+    "floor": "L3",
+    "shop_number": "302A",
+    "category": "Shopping",
+    "raw_floor": "MAX&Co.一期, L3, 302A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "mb by MIRABELL",
+    "floor": "L3",
+    "shop_number": "A369",
+    "category": "Shopping",
+    "raw_floor": "mb by MIRABELL三期, L3, A369舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "McHugs",
+    "floor": "L4",
+    "shop_number": "414A",
+    "category": "Shopping",
+    "raw_floor": "McHugs一期, L4, 414A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MICHAEL KORS",
+    "floor": "L3",
+    "shop_number": "397",
+    "category": "Shopping",
+    "raw_floor": "MICHAEL KORS一期, L3, 397舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MIKI HOUSE",
+    "floor": "L2",
+    "shop_number": "A211",
+    "category": "Shopping",
+    "raw_floor": "MIKI HOUSE三期, L2 , A211舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Mirabell",
+    "floor": "L5",
+    "shop_number": "534",
+    "category": "Shopping",
+    "raw_floor": "Mirabell一期, L5, 534舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MIRO ライフ",
+    "floor": "L3",
+    "shop_number": "A337",
+    "category": "Shopping",
+    "raw_floor": "MIRO ライフ三期, L3, A337舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Mizuno",
+    "floor": "L1",
+    "shop_number": "A118",
+    "category": "Shopping",
+    "raw_floor": "Mizuno三期, L1, A118舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MLB",
+    "floor": "L4",
+    "shop_number": "420",
+    "category": "Shopping",
+    "raw_floor": "MLB一期, L4, 420舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MLB Kids",
+    "floor": "L2",
+    "shop_number": "A205",
+    "category": "Shopping",
+    "raw_floor": "MLB Kids三期, L2, A205舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MOISELLE",
+    "floor": "L4",
+    "shop_number": "477",
+    "category": "Shopping",
+    "raw_floor": "MOISELLE一期, L4, 477舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Momax",
+    "floor": "L6",
+    "shop_number": "625",
+    "category": "Shopping",
+    "raw_floor": "Momax一期, L6, 625舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Momonittu",
+    "floor": "L2",
+    "shop_number": "A230",
+    "category": "Shopping",
+    "raw_floor": "Momonittu三期, L2, A230舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Monica Vinader",
+    "floor": "L3",
+    "shop_number": "392",
+    "category": "Shopping",
+    "raw_floor": "Monica Vinader一期, L3, 392舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "mothercare",
+    "floor": "L2",
+    "shop_number": "A235B",
+    "category": "Shopping",
+    "raw_floor": "mothercare三期, L2, A235B舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Mouri",
+    "floor": "L3",
+    "shop_number": "A362",
+    "category": "Shopping",
+    "raw_floor": "Mouri三期, L3, A362舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MOVIE TOWN MX4D ® 動感影院 (戲院)",
+    "floor": "L3",
+    "shop_number": "L3",
+    "category": "Shopping",
+    "raw_floor": "MOVIE TOWN MX4D ® 動感影院 (戲院)一期, L3 , MX4D",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MOVIE TOWN 售票處",
+    "floor": "L2",
+    "shop_number": "252",
+    "category": "Shopping",
+    "raw_floor": "MOVIE TOWN 售票處一期, L2, 252舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "MOVIE TOWN 戲院 (1-6院)",
+    "floor": "L3",
+    "shop_number": "L3",
+    "category": "Shopping",
+    "raw_floor": "MOVIE TOWN 戲院 (1-6院)一期, L3 , HOUSE1-6",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Mushroom",
+    "floor": "L3",
+    "shop_number": "A367",
+    "category": "Shopping",
+    "raw_floor": "Mushroom三期, L3, A367舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "NARS",
+    "floor": "L2",
+    "shop_number": "218",
+    "category": "Shopping",
+    "raw_floor": "NARS一期, L2, 218舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "National Geographic",
+    "floor": "L5",
+    "shop_number": "511",
+    "category": "Shopping",
+    "raw_floor": "National Geographic一期, L5, 511舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "natures purest",
+    "floor": "L2",
+    "shop_number": "A203",
+    "category": "Shopping",
+    "raw_floor": "natures purest三期, L2 , A203舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "New Balance",
+    "floor": "L5",
+    "shop_number": "532",
+    "category": "Shopping",
+    "raw_floor": "New Balance一期, L5, 532舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "NIKE",
+    "floor": "L5",
+    "shop_number": "508",
+    "category": "Shopping",
+    "raw_floor": "NIKE一期, L5, 508舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "NIKO-NIKO lifestyle store",
+    "floor": "L1",
+    "shop_number": "A109",
+    "category": "Shopping",
+    "raw_floor": "NIKO-NIKO lifestyle store三期, L1, A109舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Nordace",
+    "floor": "L2",
+    "shop_number": "A214",
+    "category": "Shopping",
+    "raw_floor": "Nordace三期, L2, A214舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "O.N.S / kapok",
+    "floor": "L2",
+    "shop_number": "247A",
+    "category": "Shopping",
+    "raw_floor": "O.N.S / kapok一期, L2, 247A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "OLENS",
+    "floor": "L3",
+    "shop_number": "A376A",
+    "category": "Shopping",
+    "raw_floor": "OLENS三期, L3, A376A舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "OME32",
+    "floor": "L3",
+    "shop_number": "A365",
+    "category": "Shopping",
+    "raw_floor": "OME32三期, L3, A365舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Onitsuka Tiger",
+    "floor": "L5",
+    "shop_number": "517-518",
+    "category": "Shopping",
+    "raw_floor": "Onitsuka Tiger一期, L5, 517-518舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Opatra London",
+    "floor": "L3",
+    "shop_number": "A349",
+    "category": "Shopping",
+    "raw_floor": "Opatra London三期, L3, A349舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Orogold",
+    "floor": "L3",
+    "shop_number": "A351C",
+    "category": "Shopping",
+    "raw_floor": "Orogold三期, L3, A351C舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "OSIM",
+    "floor": "L6",
+    "shop_number": "617",
+    "category": "Shopping",
+    "raw_floor": "OSIM一期, L6, 617舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "OTO",
+    "floor": "L6",
+    "shop_number": "608",
+    "category": "Shopping",
+    "raw_floor": "OTO一期, L6, 608舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "PANDORA",
+    "floor": "L3",
+    "shop_number": "396",
+    "category": "Shopping",
+    "raw_floor": "PANDORA一期, L3, 396舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "PATAGONIA",
+    "floor": "L5",
+    "shop_number": "516",
+    "category": "Shopping",
+    "raw_floor": "PATAGONIA一期, L5, 516舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Petit Main",
+    "floor": "L2",
+    "shop_number": "A204",
+    "category": "Shopping",
+    "raw_floor": "Petit Main三期, L2, A204舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "PicoLabb",
+    "floor": "L6",
+    "shop_number": "601",
+    "category": "Shopping",
+    "raw_floor": "PicoLabb一期, L6, 601舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "PITANIUM",
+    "floor": "L3",
+    "shop_number": "A313",
+    "category": "Shopping",
+    "raw_floor": "PITANIUM三期, L3, A313舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "POLA",
+    "floor": "L3",
+    "shop_number": "L3",
+    "category": "Shopping",
+    "raw_floor": "POLA一期, L3, Kiosk 3A",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "POP MART",
+    "floor": "L4",
+    "shop_number": "407",
+    "category": "Shopping",
+    "raw_floor": "POP MART一期, L4, 407舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "Popcorn General Store",
+    "floor": "L4",
+    "shop_number": "415",
+    "category": "Shopping",
+    "raw_floor": "Popcorn General Store一期, L4, 415舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  },
+  {
+    "name": "PORTER INTERNATIONAL",
+    "floor": "L4",
+    "shop_number": "481",
+    "category": "Shopping",
+    "raw_floor": "PORTER INTERNATIONAL一期, L4, 481舖",
+    "source_url": "https://www.newtownplaza.com.hk/zh-hant/時尚購物/",
+    "source_section": "playwright_auto",
+    "extraction_method": "playwright"
+  }
+]

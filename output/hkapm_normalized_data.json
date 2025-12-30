@@ -1,0 +1,1882 @@
+[
+  {
+    "name": "MARITHE FRANÇOIS GIRBAUD",
+    "floor": "UC - 12",
+    "shop_number": "UC - 12",
+    "category": "精選商戶",
+    "raw_floor": "UC - 12",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Dior",
+    "floor": "C - 11",
+    "shop_number": "C - 11",
+    "category": "精選商戶",
+    "raw_floor": "C - 11",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "吃茶三千",
+    "floor": "地面低層 - 2C",
+    "shop_number": "地面低層 - 2C",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 2C",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Sweety Eyes by cl mall",
+    "floor": "四樓 - 5",
+    "shop_number": "四樓 - 5",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 5",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "3 Shop",
+    "floor": "五樓 - 1a",
+    "shop_number": "五樓 - 1a",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "7-Eleven G2",
+    "floor": "地面 - 2",
+    "shop_number": "地面 - 2",
+    "category": "Shopping",
+    "raw_floor": "地面 - 2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "7-Eleven L1",
+    "floor": "一樓 - SP25",
+    "shop_number": "一樓 - SP25",
+    "category": "Shopping",
+    "raw_floor": "一樓 - SP25",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "A1 Bakery",
+    "floor": "地面低層 - 6a",
+    "shop_number": "地面低層 - 6a",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 6a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "ad-lib",
+    "floor": "三樓 - 2",
+    "shop_number": "三樓 - 2",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "adidas",
+    "floor": "四樓 - 8&9",
+    "shop_number": "四樓 - 8&9",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 8&9",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "agnès b.",
+    "floor": "大堂高層 - 16",
+    "shop_number": "大堂高層 - 16",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 16",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Apple",
+    "floor": "大堂 - 19&21&23&25&27",
+    "shop_number": "大堂 - 19&21&23&25&27",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 19&21&23&25&27",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "ASICS",
+    "floor": "四樓 - Xsite 1a",
+    "shop_number": "四樓 - Xsite 1a",
+    "category": "Shopping",
+    "raw_floor": "四樓 - Xsite 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Asok Thai",
+    "floor": "地面低層 - 3a",
+    "shop_number": "地面低層 - 3a",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "AVENUE",
+    "floor": "三樓 - 3",
+    "shop_number": "三樓 - 3",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 3",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "B+ cinema apm",
+    "floor": "六樓 - 1&1a",
+    "shop_number": "六樓 - 1&1a",
+    "category": "Shopping",
+    "raw_floor": "六樓 - 1&1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "北京同仁堂",
+    "floor": "地面低層 - 3g",
+    "shop_number": "地面低層 - 3g",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3g",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "BRAND OFF",
+    "floor": "大堂高層 - 2",
+    "shop_number": "大堂高層 - 2",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "百老滙",
+    "floor": "五樓 - Xsite2",
+    "shop_number": "五樓 - Xsite2",
+    "category": "Shopping",
+    "raw_floor": "五樓 - Xsite2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "C.P.U.",
+    "floor": "四樓 - Xsite 1a",
+    "shop_number": "四樓 - Xsite 1a",
+    "category": "Shopping",
+    "raw_floor": "四樓 - Xsite 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "CALVIN KLEIN UNDERWEAR",
+    "floor": "大堂高層 - 27",
+    "shop_number": "大堂高層 - 27",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 27",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "CATALO",
+    "floor": "地面低層 - 3e",
+    "shop_number": "地面低層 - 3e",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3e",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Catalog",
+    "floor": "一樓 - 12",
+    "shop_number": "一樓 - 12",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 12",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "CD Warehouse",
+    "floor": "三樓 - 10",
+    "shop_number": "三樓 - 10",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 10",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "CHARLES & KEITH",
+    "floor": "大堂高層 - 10",
+    "shop_number": "大堂高層 - 10",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 10",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Charlotte Tilbury",
+    "floor": "大堂 - 9",
+    "shop_number": "大堂 - 9",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 9",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Charterise",
+    "floor": "大堂高層 - 49",
+    "shop_number": "大堂高層 - 49",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 49",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "CHEVIGNON",
+    "floor": "二樓 - 9",
+    "shop_number": "二樓 - 9",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 9",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "周生生",
+    "floor": "大堂 - 37 & 39",
+    "shop_number": "大堂 - 37 & 39",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 37 & 39",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "周大福",
+    "floor": "大堂 - 30",
+    "shop_number": "大堂 - 30",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 30",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "春水堂人文茶館",
+    "floor": "一樓 - 1",
+    "shop_number": "一樓 - 1",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Clinique",
+    "floor": "大堂 - 35",
+    "shop_number": "大堂 - 35",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 35",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Columbia",
+    "floor": "二樓 - 6",
+    "shop_number": "二樓 - 6",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 6",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "曲奇四重奏",
+    "floor": "大堂高層 - 39",
+    "shop_number": "大堂高層 - 39",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 39",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "COVA",
+    "floor": "大堂 - 17",
+    "shop_number": "大堂 - 17",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 17",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "CROCS",
+    "floor": "三樓 - 8",
+    "shop_number": "三樓 - 8",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 8",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Cupping Room Coffee Roasters",
+    "floor": "大堂高層 - 15",
+    "shop_number": "大堂高層 - 15",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 15",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "DALLOYAU",
+    "floor": "大堂 - 1",
+    "shop_number": "大堂 - 1",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "丼丼屋 x 鳥開",
+    "floor": "六樓 - 3b",
+    "shop_number": "六樓 - 3b",
+    "category": "Shopping",
+    "raw_floor": "六樓 - 3b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Donguri Republic 橡子共和國",
+    "floor": "一樓 - 23",
+    "shop_number": "一樓 - 23",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 23",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Double Step",
+    "floor": "三樓 - 12a",
+    "shop_number": "三樓 - 12a",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 12a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Doughnut",
+    "floor": "三樓 - 11b",
+    "shop_number": "三樓 - 11b",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 11b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Dr. Martens",
+    "floor": "四樓 - 3",
+    "shop_number": "四樓 - 3",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 3",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "DV Meteor",
+    "floor": "一樓 - 3b",
+    "shop_number": "一樓 - 3b",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 3b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "一杯",
+    "floor": "四樓 - 20&21",
+    "shop_number": "四樓 - 20&21",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 20&21",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "EARTH MUSIC & ECOLOGY",
+    "floor": "大堂高層 - 9",
+    "shop_number": "大堂高層 - 9",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 9",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Emperor Jewellery 英皇珠寶",
+    "floor": "大堂 - 26",
+    "shop_number": "大堂 - 26",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 26",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "FANCL",
+    "floor": "大堂 - 1",
+    "shop_number": "大堂 - 1",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "FIVE GUYS",
+    "floor": "大堂 - 2",
+    "shop_number": "大堂 - 2",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Food Fiesta",
+    "floor": "二樓 - Food Court",
+    "shop_number": "二樓 - Food Court",
+    "category": "Shopping",
+    "raw_floor": "二樓 - Food Court",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "豐澤",
+    "floor": "五樓 - Xsite1",
+    "shop_number": "五樓 - Xsite1",
+    "category": "Shopping",
+    "raw_floor": "五樓 - Xsite1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "G2000",
+    "floor": "一樓 - 22 a&b",
+    "shop_number": "一樓 - 22 a&b",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 22 a&b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "元気寿司",
+    "floor": "六樓 - 3a",
+    "shop_number": "六樓 - 3a",
+    "category": "Shopping",
+    "raw_floor": "六樓 - 3a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Glycel",
+    "floor": "大堂高層 - 6",
+    "shop_number": "大堂高層 - 6",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 6",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Godiva Chocolatier",
+    "floor": "大堂 - SP3",
+    "shop_number": "大堂 - SP3",
+    "category": "Shopping",
+    "raw_floor": "大堂 - SP3",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "泰國婆 Grandma Thai",
+    "floor": "四樓 - 18",
+    "shop_number": "四樓 - 18",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 18",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "綠茶餐廳",
+    "floor": "大堂高層 - 1",
+    "shop_number": "大堂高層 - 1",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Häagen-Dazs™",
+    "floor": "一樓 - 7",
+    "shop_number": "一樓 - 7",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 7",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "happylemon",
+    "floor": "一樓 - 17",
+    "shop_number": "一樓 - 17",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 17",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "八天堂",
+    "floor": "二樓 - 8",
+    "shop_number": "二樓 - 8",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 8",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "草姬",
+    "floor": "地面低層 - 2a",
+    "shop_number": "地面低層 - 2a",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 2a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "HISSO",
+    "floor": "二樓 - 5b",
+    "shop_number": "二樓 - 5b",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 5b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "本陣",
+    "floor": "四樓 - 23",
+    "shop_number": "四樓 - 23",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 23",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "HP 專門店",
+    "floor": "五樓 - 7",
+    "shop_number": "五樓 - 7",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 7",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "IDEAS",
+    "floor": "大堂高層 - 21",
+    "shop_number": "大堂高層 - 21",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 21",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "官燕棧",
+    "floor": "地面低層 - 5b",
+    "shop_number": "地面低層 - 5b",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 5b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Ineffable",
+    "floor": "三樓 - 9a",
+    "shop_number": "三樓 - 9a",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 9a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "INITIAL",
+    "floor": "一樓 - 8&10",
+    "shop_number": "一樓 - 8&10",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 8&10",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "INITIALGENTLEMAN",
+    "floor": "一樓 - 8 & 10",
+    "shop_number": "一樓 - 8 & 10",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 8 & 10",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "INTIQUE",
+    "floor": "大堂高層 - 26",
+    "shop_number": "大堂高層 - 26",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 26",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "IPSA",
+    "floor": "大堂 - 5",
+    "shop_number": "大堂 - 5",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 5",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Italian Tomato Café",
+    "floor": "五樓 - 6b",
+    "shop_number": "五樓 - 6b",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 6b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "JINS",
+    "floor": "二樓 - 7",
+    "shop_number": "二樓 - 7",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 7",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "JP@apm",
+    "floor": "六樓 - 5",
+    "shop_number": "六樓 - 5",
+    "category": "Shopping",
+    "raw_floor": "六樓 - 5",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "神山麺屋",
+    "floor": "二樓 - 1b",
+    "shop_number": "二樓 - 1b",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 1b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "奇華餅家",
+    "floor": "一樓 - 26b",
+    "shop_number": "一樓 - 26b",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 26b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "肯德基",
+    "floor": "二樓 - 1",
+    "shop_number": "二樓 - 1",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Kiehl's",
+    "floor": "大堂 - 15",
+    "shop_number": "大堂 - 15",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 15",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "La Famille",
+    "floor": "大堂高層 - 5",
+    "shop_number": "大堂高層 - 5",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 5",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "LANEIGE",
+    "floor": "大堂 - 7",
+    "shop_number": "大堂 - 7",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 7",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "LAURA MERCIER",
+    "floor": "大堂 - 6",
+    "shop_number": "大堂 - 6",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 6",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "LEGiT",
+    "floor": "三樓 - 11a",
+    "shop_number": "三樓 - 11a",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 11a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "利苑酒家",
+    "floor": "五樓 - 8",
+    "shop_number": "五樓 - 8",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 8",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Levi's",
+    "floor": "三樓 - 9",
+    "shop_number": "三樓 - 9",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 9",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Life4cuts",
+    "floor": "四樓 - 25a",
+    "shop_number": "四樓 - 25a",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 25a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "LIFETASTIC Patisserie",
+    "floor": "一樓 - 5",
+    "shop_number": "一樓 - 5",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 5",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "LINE FRIENDS POP-UP Store",
+    "floor": "大堂 - 33",
+    "shop_number": "大堂 - 33",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 33",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Lobby by Hair Corner & Lobby Cafe",
+    "floor": "三樓 - 5",
+    "shop_number": "三樓 - 5",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 5",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "LOG-ON",
+    "floor": "一樓 - 21",
+    "shop_number": "一樓 - 21",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 21",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "LUCULLUS 龍島",
+    "floor": "地面低層 - 2b",
+    "shop_number": "地面低層 - 2b",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 2b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "L’OCCITANE",
+    "floor": "大堂 - 29",
+    "shop_number": "大堂 - 29",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 29",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "M.A.C",
+    "floor": "大堂 - 8a",
+    "shop_number": "大堂 - 8a",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 8a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "MaBelle",
+    "floor": "大堂高層 - 7",
+    "shop_number": "大堂高層 - 7",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 7",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "萬寧",
+    "floor": "一樓 - 28&29",
+    "shop_number": "一樓 - 28&29",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 28&29",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "馬拉松",
+    "floor": "四樓 - 10",
+    "shop_number": "四樓 - 10",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 10",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Matin Kim",
+    "floor": "大堂高層 - 13",
+    "shop_number": "大堂高層 - 13",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 13",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Matsukiyo 松本清",
+    "floor": "大堂高層 - 17-19",
+    "shop_number": "大堂高層 - 17-19",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 17-19",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "彌明生活百貨",
+    "floor": "二樓 - 2",
+    "shop_number": "二樓 - 2",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "米蘭站",
+    "floor": "大堂高層 - 8",
+    "shop_number": "大堂高層 - 8",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 8",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Milksha迷客夏",
+    "floor": "一樓 - 11",
+    "shop_number": "一樓 - 11",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 11",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Mister Donut",
+    "floor": "大堂高層 - 11",
+    "shop_number": "大堂高層 - 11",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 11",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "MLB",
+    "floor": "大堂高層 - 23",
+    "shop_number": "大堂高層 - 23",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 23",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "MOMAX",
+    "floor": "二樓 - 9a",
+    "shop_number": "二樓 - 9a",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 9a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "More Yogurt 茉酸奶",
+    "floor": "四樓 - 26",
+    "shop_number": "四樓 - 26",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 26",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "MOS Burger",
+    "floor": "地面低層 - 6c",
+    "shop_number": "地面低層 - 6c",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 6c",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "無印良品",
+    "floor": "一樓 - Xsite 1a",
+    "shop_number": "一樓 - Xsite 1a",
+    "category": "Shopping",
+    "raw_floor": "一樓 - Xsite 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "na.mu",
+    "floor": "三樓 - 12b",
+    "shop_number": "三樓 - 12b",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 12b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "NARS",
+    "floor": "大堂 - 6",
+    "shop_number": "大堂 - 6",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 6",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "National Geographic",
+    "floor": "大堂高層 - 35",
+    "shop_number": "大堂高層 - 35",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 35",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Nespresso",
+    "floor": "大堂高層 - 20",
+    "shop_number": "大堂高層 - 20",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 20",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "New Balance",
+    "floor": "四樓 - Xsite 1a",
+    "shop_number": "四樓 - Xsite 1a",
+    "category": "Shopping",
+    "raw_floor": "四樓 - Xsite 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Nike",
+    "floor": "四樓 - Xsite 1b & 1c",
+    "shop_number": "四樓 - Xsite 1b & 1c",
+    "category": "Shopping",
+    "raw_floor": "四樓 - Xsite 1b & 1c",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "NIKO-NIKO Lifestyle Store",
+    "floor": "一樓 - 15",
+    "shop_number": "一樓 - 15",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 15",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Nordace",
+    "floor": "四樓 - 11",
+    "shop_number": "四樓 - 11",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 11",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "OGAWA",
+    "floor": "四樓 - 13",
+    "shop_number": "四樓 - 13",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 13",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "老上環",
+    "floor": "地面低層 - 3f",
+    "shop_number": "地面低層 - 3f",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3f",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "OLENS",
+    "floor": "二樓 - 3",
+    "shop_number": "二樓 - 3",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 3",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Oliver’s Super Sandwiches",
+    "floor": "二樓 - 13",
+    "shop_number": "二樓 - 13",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 13",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Onitsuka Tiger",
+    "floor": "大堂高層 - 25",
+    "shop_number": "大堂高層 - 25",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 25",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "眼鏡88",
+    "floor": "二樓 - 10",
+    "shop_number": "二樓 - 10",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 10",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "俺流塩拉麵",
+    "floor": "一樓 - 1",
+    "shop_number": "一樓 - 1",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Oriental Traffic",
+    "floor": "大堂高層 - 28a",
+    "shop_number": "大堂高層 - 28a",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 28a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "OSIM",
+    "floor": "五樓 - 10",
+    "shop_number": "五樓 - 10",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 10",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "OWNDAYS",
+    "floor": "一樓 - 19",
+    "shop_number": "一樓 - 19",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 19",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Palladium",
+    "floor": "一樓 - 16",
+    "shop_number": "一樓 - 16",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 16",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "PAN de PAIN Pancake & Sweets",
+    "floor": "大堂高層 - 37",
+    "shop_number": "大堂高層 - 37",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 37",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "PANDORA",
+    "floor": "大堂高層 - 9a",
+    "shop_number": "大堂高層 - 9a",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 9a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "PAUL LAFAYET",
+    "floor": "二樓 - 12",
+    "shop_number": "二樓 - 12",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 12",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "錦麗",
+    "floor": "四樓 - -19",
+    "shop_number": "四樓 - -19",
+    "category": "Shopping",
+    "raw_floor": "四樓 - -19",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "必勝客",
+    "floor": "二樓 - 1",
+    "shop_number": "二樓 - 1",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "POP MART",
+    "floor": "一樓 - 9a",
+    "shop_number": "一樓 - 9a",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 9a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "紅蘿蔔健與美",
+    "floor": "五樓 - 1b",
+    "shop_number": "五樓 - 1b",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 1b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "RED WING",
+    "floor": "四樓 - Xsite 1a",
+    "shop_number": "四樓 - Xsite 1a",
+    "category": "Shopping",
+    "raw_floor": "四樓 - Xsite 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "RITUALS",
+    "floor": "大堂高層 - 22",
+    "shop_number": "大堂高層 - 22",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 22",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Rococo",
+    "floor": "一樓 - 20",
+    "shop_number": "一樓 - 20",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 20",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Rolex & Tudor",
+    "floor": "大堂 - 18 & 20",
+    "shop_number": "大堂 - 18 & 20",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 18 & 20",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Runderful",
+    "floor": "四樓 - Xsite 1a",
+    "shop_number": "四樓 - Xsite 1a",
+    "category": "Shopping",
+    "raw_floor": "四樓 - Xsite 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Samuel Ashley",
+    "floor": "四樓 - 12a",
+    "shop_number": "四樓 - 12a",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 12a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "更紗制菓",
+    "floor": "二樓 - 11",
+    "shop_number": "二樓 - 11",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 11",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "莎莎",
+    "floor": "一樓 - 2&6",
+    "shop_number": "一樓 - 2&6",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 2&6",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Seiko",
+    "floor": "大堂 - 28",
+    "shop_number": "大堂 - 28",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 28",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Sephora",
+    "floor": "大堂高層 - 31 & 33",
+    "shop_number": "大堂高層 - 31 & 33",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 31 & 33",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "SHISEIDO",
+    "floor": "大堂 - 8b",
+    "shop_number": "大堂 - 8b",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 8b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "shu uemura 植村秀",
+    "floor": "大堂高層 - 18",
+    "shop_number": "大堂高層 - 18",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 18",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "simplylife",
+    "floor": "一樓 - Xsite 1d",
+    "shop_number": "一樓 - Xsite 1d",
+    "category": "Shopping",
+    "raw_floor": "一樓 - Xsite 1d",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "SK-II",
+    "floor": "大堂 - 13",
+    "shop_number": "大堂 - 13",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 13",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "SKECHERS",
+    "floor": "三樓 - 6",
+    "shop_number": "三樓 - 6",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 6",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "SKINTORY",
+    "floor": "四樓 - 17b",
+    "shop_number": "四樓 - 17b",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 17b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "數碼通",
+    "floor": "大堂高層 - 29",
+    "shop_number": "大堂高層 - 29",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 29",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "星巴克咖啡",
+    "floor": "二樓 - 15",
+    "shop_number": "二樓 - 15",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 15",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "StoryBehind",
+    "floor": "二樓 - 5a",
+    "shop_number": "二樓 - 5a",
+    "category": "Shopping",
+    "raw_floor": "二樓 - 5a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "太二老壇子酸菜魚",
+    "floor": "一樓 - 13",
+    "shop_number": "一樓 - 13",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 13",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "電訊數碼",
+    "floor": "五樓 - 9",
+    "shop_number": "五樓 - 9",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 9",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "蘇寧",
+    "floor": "五樓 - 3",
+    "shop_number": "五樓 - 3",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 3",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "但馬屋",
+    "floor": "四樓 - 22",
+    "shop_number": "四樓 - 22",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 22",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "探魚",
+    "floor": "三樓 - 13",
+    "shop_number": "三樓 - 13",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 13",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Tea Château",
+    "floor": "一樓 - 18",
+    "shop_number": "一樓 - 18",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 18",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Tea WG Boutique",
+    "floor": "大堂 - 12",
+    "shop_number": "大堂 - 12",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 12",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "茶木‧台式休閒餐廳",
+    "floor": "四樓 - 19",
+    "shop_number": "四樓 - 19",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 19",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "TechLife By FORTRESS",
+    "floor": "五樓 - 5&6a",
+    "shop_number": "五樓 - 5&6a",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 5&6a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "THE 24 . ST",
+    "floor": "大堂高層 - SP15",
+    "shop_number": "大堂高層 - SP15",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - SP15",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "The Body Shop",
+    "floor": "大堂高層 - 30",
+    "shop_number": "大堂高層 - 30",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 30",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "THE MATCHA TOKYO",
+    "floor": "一樓 - 9b",
+    "shop_number": "一樓 - 9b",
+    "category": "Shopping",
+    "raw_floor": "一樓 - 9b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "本木序",
+    "floor": "大堂高層 - 47",
+    "shop_number": "大堂高層 - 47",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 47",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Too Chill for Yoga",
+    "floor": "四樓 - 12",
+    "shop_number": "四樓 - 12",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 12",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "鳥貴族",
+    "floor": "四樓 - 1&2",
+    "shop_number": "四樓 - 1&2",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 1&2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Torio",
+    "floor": "大堂高層 - 28b",
+    "shop_number": "大堂高層 - 28b",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 28b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "UCC Coffee Shop",
+    "floor": "地面低層 - 6b",
+    "shop_number": "地面低層 - 6b",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 6b",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "方叔叔重慶老火鍋",
+    "floor": "五樓 - 2",
+    "shop_number": "五樓 - 2",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 2",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "UNIQLO",
+    "floor": "三樓 - Xsite",
+    "shop_number": "三樓 - Xsite",
+    "category": "Shopping",
+    "raw_floor": "三樓 - Xsite",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Venchi",
+    "floor": "大堂 - 16",
+    "shop_number": "大堂 - 16",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 16",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "維特健靈",
+    "floor": "地面低層 - 5C",
+    "shop_number": "地面低層 - 5C",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 5C",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "屈臣氏酒窖",
+    "floor": "地面低層 - 5a",
+    "shop_number": "地面低層 - 5a",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 5a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "衛訊",
+    "floor": "五樓 - 2a",
+    "shop_number": "五樓 - 2a",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 2a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "小米之家",
+    "floor": "三樓 - 7",
+    "shop_number": "三樓 - 7",
+    "category": "Shopping",
+    "raw_floor": "三樓 - 7",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "山崎麵飽",
+    "floor": "大堂 - 1a",
+    "shop_number": "大堂 - 1a",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 1a",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "仁御堂",
+    "floor": "地面低層 - 3c",
+    "shop_number": "地面低層 - 3c",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3c",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Yasashii Beauty",
+    "floor": "大堂高層 - 36",
+    "shop_number": "大堂高層 - 36",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 36",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "一田超市",
+    "floor": "地面低層 - 1",
+    "shop_number": "地面低層 - 1",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Yee3",
+    "floor": "四樓 - 27",
+    "shop_number": "四樓 - 27",
+    "category": "Shopping",
+    "raw_floor": "四樓 - 27",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "Yves Saint Laurent Beauté",
+    "floor": "大堂 - 3",
+    "shop_number": "大堂 - 3",
+    "category": "Shopping",
+    "raw_floor": "大堂 - 3",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "佐賀燒肉谷 Yakiniku Guu",
+    "floor": "五樓 - 1",
+    "shop_number": "五樓 - 1",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "再睡5分鐘 NAP TEA",
+    "floor": "大堂高層 - 3",
+    "shop_number": "大堂高層 - 3",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 3",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "千両 sen-ryo",
+    "floor": "大堂高層 - 41 &43",
+    "shop_number": "大堂高層 - 41 &43",
+    "category": "Shopping",
+    "raw_floor": "大堂高層 - 41 &43",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "啟泰",
+    "floor": "地面低層 - 3j",
+    "shop_number": "地面低層 - 3j",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3j",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "尚品",
+    "floor": "地面低層 - 3i",
+    "shop_number": "地面低層 - 3i",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3i",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "山見台式火鍋 San-Kinn",
+    "floor": "五樓 - 1",
+    "shop_number": "五樓 - 1",
+    "category": "Shopping",
+    "raw_floor": "五樓 - 1",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  },
+  {
+    "name": "正官庄",
+    "floor": "地面低層 - 3h",
+    "shop_number": "地面低層 - 3h",
+    "category": "Shopping",
+    "raw_floor": "地面低層 - 3h",
+    "source_url": "https://www.hkapm.com.hk/shop/",
+    "source_section": "html",
+    "extraction_method": "ai_config_html"
+  }
+]

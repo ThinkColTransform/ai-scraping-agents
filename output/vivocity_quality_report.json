@@ -1,0 +1,188 @@
+{
+  "summary": {
+    "total_records": 8,
+    "overall_coverage": "31.2%",
+    "field_coverage": {
+      "name": "100.0%",
+      "floor": "12.5%",
+      "shop_number": "12.5%",
+      "category": "0.0%"
+    }
+  },
+  "issues": {
+    "missing_fields": {
+      "name": 0,
+      "floor": 7,
+      "shop_number": 7,
+      "category": 8
+    },
+    "unknown_floors": [],
+    "top_failures": [
+      {
+        "issue": "Missing category",
+        "count": 8,
+        "pct": 1.0
+      },
+      {
+        "issue": "Missing floor",
+        "count": 7,
+        "pct": 0.875
+      },
+      {
+        "issue": "Missing shop_number",
+        "count": 7,
+        "pct": 0.875
+      }
+    ]
+  },
+  "sample_records_with_issues": {
+    "missing_floor": [
+      {
+        "name": "Exclusive Promo for Mall Members Only: End of Season Sale",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Exclusive Promo for Mall Members Only: End of Season SaleEnjoy $8 off, no min spend, from 26 – 31 December 2025. Offer is valid at Love, Bonito VivoCity from 26-31 December only. Offer is not stackable with other promo codes and offers. Other T&Cs apply.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "Smiggle Boxing Day",
+        "floor": "(missing)",
+        "shop_number": "now",
+        "category": "(missing)",
+        "raw_floor": "Smiggle Boxing DayBoxing Day is here! Get your favourite Smiggle products for up to 50% off in-store and online for limited time only. Shop now! Stock up on your Smiggle essentials and save up to 50% off this Boxing Day! Limited time only.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "Celebrate Chinese New Year with Crystal Jade",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Celebrate Chinese New Year with Crystal JadeFrom now till 18 Jan 2026, enjoy exclusive early bird promotions at promotional prices and save up to 30% on festive takeaway goodies and up to $300 on dine-in set menus. Otherwise, enjoy 8% off usual prices from 19 Jan – 3 Mar 2026. Festive set menus start from $898 for 6 persons for Crystal ...",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "LOVET – 10% OFF LOVET Mini styles",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "LOVET – 10% OFF LOVET Mini styles06 Jun 2025 - 31 Dec 202510% OFF LOVET Mini styles Present your VivoCity Kids Club membership eCard to enjoy this offer. This discount is not stackable with any other promotion or membership discounts. In case of disputes, Lovet reserves the final discretion. The Management reserves the right to amend the offer and terms and conditions without prior notice.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "Surrey Hills Grocer – FREE strawberry milk or chocolate milk with any purchase",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Surrey Hills Grocer – FREE strawberry milk or chocolate milk with any purchase11 Feb 2025 - 31 Dec 2025FREE strawberry milk or chocolate milk with any purchase Present your VivoCity Kids Club membership eCard to enjoy this offer. Valid only at VivoCity outlet. Not valid with other promotions. Applicable on weekdays only, except Public Holidays. The Management reserves the right to amend the offer and the terms and conditions without prior notice.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      }
+    ],
+    "missing_shop_number": [
+      {
+        "name": "Exclusive Promo for Mall Members Only: End of Season Sale",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Exclusive Promo for Mall Members Only: End of Season SaleEnjoy $8 off, no min spend, from 26 – 31 December 2025. Offer is valid at Love, Bonito VivoCity from 26-31 December only. Offer is not stackable with other promo codes and offers. Other T&Cs apply.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "Celebrate Chinese New Year with Crystal Jade",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Celebrate Chinese New Year with Crystal JadeFrom now till 18 Jan 2026, enjoy exclusive early bird promotions at promotional prices and save up to 30% on festive takeaway goodies and up to $300 on dine-in set menus. Otherwise, enjoy 8% off usual prices from 19 Jan – 3 Mar 2026. Festive set menus start from $898 for 6 persons for Crystal ...",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "End of Season Sale",
+        "floor": "LB1",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "End of Season SaleEnjoy up to 70% off + extra 25% off storewide. Buy 3, get 25% off Buy 2, get 15% off *Offer is valid at Love, Bonito VivoCity. Applicable storewide on markdown and full-priced items, excluding New Arrivals, Love, Bonito | Wiggle Wiggle items, IAmWell Journal, Moom products, LB Canvas Shopper Tote Bag, lifestyle items, and ...",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "LOVET – 10% OFF LOVET Mini styles",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "LOVET – 10% OFF LOVET Mini styles06 Jun 2025 - 31 Dec 202510% OFF LOVET Mini styles Present your VivoCity Kids Club membership eCard to enjoy this offer. This discount is not stackable with any other promotion or membership discounts. In case of disputes, Lovet reserves the final discretion. The Management reserves the right to amend the offer and terms and conditions without prior notice.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "Surrey Hills Grocer – FREE strawberry milk or chocolate milk with any purchase",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Surrey Hills Grocer – FREE strawberry milk or chocolate milk with any purchase11 Feb 2025 - 31 Dec 2025FREE strawberry milk or chocolate milk with any purchase Present your VivoCity Kids Club membership eCard to enjoy this offer. Valid only at VivoCity outlet. Not valid with other promotions. Applicable on weekdays only, except Public Holidays. The Management reserves the right to amend the offer and the terms and conditions without prior notice.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      }
+    ],
+    "missing_category": [
+      {
+        "name": "Exclusive Promo for Mall Members Only: End of Season Sale",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Exclusive Promo for Mall Members Only: End of Season SaleEnjoy $8 off, no min spend, from 26 – 31 December 2025. Offer is valid at Love, Bonito VivoCity from 26-31 December only. Offer is not stackable with other promo codes and offers. Other T&Cs apply.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "Smiggle Boxing Day",
+        "floor": "(missing)",
+        "shop_number": "now",
+        "category": "(missing)",
+        "raw_floor": "Smiggle Boxing DayBoxing Day is here! Get your favourite Smiggle products for up to 50% off in-store and online for limited time only. Shop now! Stock up on your Smiggle essentials and save up to 50% off this Boxing Day! Limited time only.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "Celebrate Chinese New Year with Crystal Jade",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "Celebrate Chinese New Year with Crystal JadeFrom now till 18 Jan 2026, enjoy exclusive early bird promotions at promotional prices and save up to 30% on festive takeaway goodies and up to $300 on dine-in set menus. Otherwise, enjoy 8% off usual prices from 19 Jan – 3 Mar 2026. Festive set menus start from $898 for 6 persons for Crystal ...",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "End of Season Sale",
+        "floor": "LB1",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "End of Season SaleEnjoy up to 70% off + extra 25% off storewide. Buy 3, get 25% off Buy 2, get 15% off *Offer is valid at Love, Bonito VivoCity. Applicable storewide on markdown and full-priced items, excluding New Arrivals, Love, Bonito | Wiggle Wiggle items, IAmWell Journal, Moom products, LB Canvas Shopper Tote Bag, lifestyle items, and ...",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      },
+      {
+        "name": "LOVET – 10% OFF LOVET Mini styles",
+        "floor": "(missing)",
+        "shop_number": "(missing)",
+        "category": "(missing)",
+        "raw_floor": "LOVET – 10% OFF LOVET Mini styles06 Jun 2025 - 31 Dec 202510% OFF LOVET Mini styles Present your VivoCity Kids Club membership eCard to enjoy this offer. This discount is not stackable with any other promotion or membership discounts. In case of disputes, Lovet reserves the final discretion. The Management reserves the right to amend the offer and terms and conditions without prior notice.",
+        "source_url": "https://www.vivocity.com.sg/",
+        "extraction_method": "auto_html"
+      }
+    ]
+  },
+  "metadata": {
+    "mall_name": "vivocity",
+    "root_url": "https://www.vivocity.com.sg/",
+    "iterations": 5,
+    "api_calls": 7,
+    "timestamp": "2025-12-30T17:09:34.338910"
+  }
+}

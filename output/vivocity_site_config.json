@@ -1,0 +1,9 @@
+{
+  "sections": {},
+  "extraction_rules": {},
+  "floor_patterns": [],
+  "selectors": {},
+  "api_endpoints": {
+    "discovered": "https://www.vivocity.com.sg/wp-json/wp/v2/* (potential; confirm by searching HTML for 'wp-json' or REST routes)"
+  }
+}

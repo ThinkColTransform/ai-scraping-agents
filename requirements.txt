@@ -1,0 +1,33 @@
+# Autonomous Mall Scraper - Requirements
+# Python 3.11+
+
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Azure OpenAI for autonomous agents
+openai>=1.12.0
+python-dotenv>=1.0.0
+
+# Data handling (included in standard library, listed for clarity)
+# - json
+# - csv
+# - re
+# - logging
+# - typing
+# - datetime
+# - pathlib
+# - dataclasses
+
+# Optional: For enhanced features
+# pandas>=2.0.0  # Uncomment for advanced data analysis
+# openpyxl>=3.1.0  # Uncomment for Excel export support
+
+# Optional: Playwright (only if needed for dynamic sites)
+# playwright>=1.40.0
+# After installing, run: playwright install chromium
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0

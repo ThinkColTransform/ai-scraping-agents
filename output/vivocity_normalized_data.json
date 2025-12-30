@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Exclusive Promo for Mall Members Only: End of Season Sale",
+    "raw_floor": "Exclusive Promo for Mall Members Only: End of Season SaleEnjoy $8 off, no min spend, from 26 – 31 December 2025. Offer is valid at Love, Bonito VivoCity from 26-31 December only. Offer is not stackable with other promo codes and offers. Other T&Cs apply.",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  },
+  {
+    "name": "Smiggle Boxing Day",
+    "shop_number": "now",
+    "raw_floor": "Smiggle Boxing DayBoxing Day is here! Get your favourite Smiggle products for up to 50% off in-store and online for limited time only. Shop now! Stock up on your Smiggle essentials and save up to 50% off this Boxing Day! Limited time only.",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  },
+  {
+    "name": "Celebrate Chinese New Year with Crystal Jade",
+    "raw_floor": "Celebrate Chinese New Year with Crystal JadeFrom now till 18 Jan 2026, enjoy exclusive early bird promotions at promotional prices and save up to 30% on festive takeaway goodies and up to $300 on dine-in set menus. Otherwise, enjoy 8% off usual prices from 19 Jan – 3 Mar 2026. Festive set menus start from $898 for 6 persons for Crystal ...",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  },
+  {
+    "name": "End of Season Sale",
+    "floor": "LB1",
+    "raw_floor": "End of Season SaleEnjoy up to 70% off + extra 25% off storewide. Buy 3, get 25% off Buy 2, get 15% off *Offer is valid at Love, Bonito VivoCity. Applicable storewide on markdown and full-priced items, excluding New Arrivals, Love, Bonito | Wiggle Wiggle items, IAmWell Journal, Moom products, LB Canvas Shopper Tote Bag, lifestyle items, and ...",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  },
+  {
+    "name": "LOVET – 10% OFF LOVET Mini styles",
+    "raw_floor": "LOVET – 10% OFF LOVET Mini styles06 Jun 2025 - 31 Dec 202510% OFF LOVET Mini styles Present your VivoCity Kids Club membership eCard to enjoy this offer. This discount is not stackable with any other promotion or membership discounts. In case of disputes, Lovet reserves the final discretion. The Management reserves the right to amend the offer and terms and conditions without prior notice.",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  },
+  {
+    "name": "Surrey Hills Grocer – FREE strawberry milk or chocolate milk with any purchase",
+    "raw_floor": "Surrey Hills Grocer – FREE strawberry milk or chocolate milk with any purchase11 Feb 2025 - 31 Dec 2025FREE strawberry milk or chocolate milk with any purchase Present your VivoCity Kids Club membership eCard to enjoy this offer. Valid only at VivoCity outlet. Not valid with other promotions. Applicable on weekdays only, except Public Holidays. The Management reserves the right to amend the offer and the terms and conditions without prior notice.",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  },
+  {
+    "name": "OWNDAYS – FREE Myopia Control 2 Lenses (U.P. $100) with every spectacle purchase",
+    "raw_floor": "OWNDAYS – FREE Myopia Control 2 Lenses (U.P. $100) with every spectacle purchase01 Jan 2025 - 31 Dec 2025FREE Myopia Control 2 Lenses (U.P. $100) with every spectacle purchase Present your VivoCity Kids Club membership eCard to enjoy this offer. Offer is valid with the purchase of prescription glasses only and excludes the lens replacement service. Children under 8 years old have to book an appointment. Lens sold will not be covered by ...",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  },
+  {
+    "name": "Crystal Jade Pavilion – FREE Sugarcane Jelly with Peach Sorbet",
+    "raw_floor": "Crystal Jade Pavilion – FREE Sugarcane Jelly with Peach Sorbet01 Jan 2025 - 31 Dec 2025FREE Sugarcane Jelly with Peach Sorbet Present your VivoCity Kids Club membership eCard to enjoy this offer. Not valid from 8 Jan – 12 Feb 2025 Promotion is only valid at Crystal Jade Pavilion (VivoCity). Valid for dine-in only and while stocks last. Limited to 1 redemption per table per bill. No splitting or combining ...",
+    "source_url": "https://www.vivocity.com.sg/",
+    "source_section": "html_auto",
+    "extraction_method": "auto_html"
+  }
+]
